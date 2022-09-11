@@ -19,6 +19,3 @@ Click:
     ControlClick, ,War,, Left
   }
 	Return
-
-ESC:: ; in case something goes horribly wrong press escape to nuke the script
-ExitApp
