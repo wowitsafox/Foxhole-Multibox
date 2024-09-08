@@ -1,5 +1,5 @@
 # Foxhole Multiboxing
-Helpful Autohotkey scripts for the game Foxhole c:
+Multibox tool for the game Foxhole
 
 ### What you need to get started: 
 [Autohotkey]: https://www.autohotkey.com/
